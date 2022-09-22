@@ -1,0 +1,17 @@
+<HEAD>
+<TITLE>ROMAR</TITLE>
+</HEAD>
+<BODY background="TCC.jpg">
+<body text ="#FF8C00">
+<center> <font size="7"><H1>Tanauan City College</H1>
+ <center><p><img src="ROMAR.jpeg" WIDTH="200" HEIGHT="200"</p>
+ <font color ="white" font size="5">
+<p align="justify">Bachelor of Science in Computer Engineering (BS CpE)</p>
+<font size="5">
+<P align="justify">Hobbies are playing computer games
+<p>
+<a href="sample1.html"><button>back</button></a>
+</p>
+</P>
+</BODY>
+</HTML>
